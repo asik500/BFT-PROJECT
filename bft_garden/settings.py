@@ -32,6 +32,7 @@ INSTALLED_APPS = [
     'home',
     'construction_department',
     'project',
+    'customer',  # Your custom app
 ]
 
 # ⚙️ Middleware
